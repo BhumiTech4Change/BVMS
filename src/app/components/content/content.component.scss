@@ -1,0 +1,23 @@
+.container {
+  padding: 25px;
+
+  .header-text {
+    font-size: 16px;
+    font-weight: bolder;
+  }
+
+  .body-text {
+    font-size: 13px;
+  }
+
+  .buttons-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  app-news {
+    margin-top: 30px;
+  }
+}

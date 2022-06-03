@@ -1,0 +1,20 @@
+.header {
+  background-color: #F5F5F5;
+  padding-bottom: 15px;
+
+  .header-intro {
+    font-size: 26px;
+    font-weight: bolder;
+    margin-left: 25px;
+  }
+
+  .header-body {
+    font-size: 16px;
+    font-weight: 300;
+    margin-left: 25px;
+  }
+
+  app-search {
+    margin-left: 35px;
+  }
+}
